@@ -23,13 +23,13 @@ int main(){
 }
 
 int add(int a, int b) {
-  return 0; // TODO : FIX IT
+  return a + b; // return sum of a and b
 }
 
 int sub(int a, int b) {
-  return 0; // TODO : FIX IT
+  return a - b; // return subtraction of a and b
 }
 
 int mul(int a, int b) {
-  return 0; // TODO : FIX IT
+  return a * b; // return mul of a and b
 }
